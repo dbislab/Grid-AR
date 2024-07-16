@@ -37,6 +37,7 @@ Also, the Grid-AR structure with the AR model and all required info will be stor
 For different buckets per column, a different Grid-AR structure with AR model needs to be created. 
 The number of buckets per column can be set in `eval_single_table.py` under the variable `ranges_per_dimension`.
 
+The evaluation of range joins can be done through the `eval_multi_range_joins.py` file. The file is set up to create a CDF-based Grid-AR model. The same variables can be set up as for the single table evaluation. 
 
 To change the number of **epochs** for which the model is trained you can do that in `train_model.py` in the parser argument `--epochs`, default is `10`.
 By default, the model will use compression.

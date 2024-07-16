@@ -1,0 +1,8 @@
+data_location = "./datasets/customer/" # tpch customer
+dataset_name = ""
+use_ar_model = True
+read_parsed_dataset = False # for large datasets, avoids preprocessing in next execution
+store_parsed_dataset = False # for large datasets, avoids preprocessing in next execution
+load_existing_grid = False
+store_grid = True
+grid_ar_name = '_cdf_5_5_5_residual' # how grid-ar will be saved

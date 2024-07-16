@@ -1,0 +1,2 @@
+column_mappings = "./column_mappings/"
+columns_to_ignore_for_compression = []

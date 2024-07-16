@@ -1,0 +1,5 @@
+__pycache__
+.idea
+.DS_Store
+data_location_variables.py
+PathsVariables.py
