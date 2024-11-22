@@ -57,4 +57,11 @@ The distribution of the query selectivities for the single table queries of the 
 </p>
 <!-- ![Screenshot 2024-11-22 at 13 04 09|10](https://github.com/user-attachments/assets/f346535e-4ae4-4fd8-82d8-61906fef38d9) -->
 
+The distribution of the query selectivities for the range join queries over two tables for Flight and Customer are shown in the following figures. 
+
+<p align='center'>
+<img src="https://github.com/user-attachments/assets/6b97359b-890c-44c3-bc28-5883709010c7" width=40%/>
+  <img src="https://github.com/user-attachments/assets/344c7cdb-2ec8-473f-9b01-7bd0438ac742" width=40%/>
+<!-- </p>![flight_range_join_queries](https://github.com/user-attachments/assets/6b97359b-890c-44c3-bc28-588370![customer_range_join_queries](https://github.com/user-attachments/assets/344c7cdb-2ec8-473f-9b01-7bd0438ac742)
+9010c7) -->
 
