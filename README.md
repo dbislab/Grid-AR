@@ -51,3 +51,10 @@ To repeat the experiments for single table queries and get the results for Figur
 To repeat the experiments for range join queries (Table 6-7, Figure 6), run `eval_multi_range_joins.py` as is.
 - To evaluate the different range join types and number of tables included in the range join, uncomment the respective query file names.
 
+The distribution of the query selectivities for the single table queries of the three used datasets is shown in the following figure. 
+<p align='center'>
+<img src="https://github.com/user-attachments/assets/f346535e-4ae4-4fd8-82d8-61906fef38d9" width=60%/>
+</p>
+<!-- ![Screenshot 2024-11-22 at 13 04 09|10](https://github.com/user-attachments/assets/f346535e-4ae4-4fd8-82d8-61906fef38d9) -->
+
+
